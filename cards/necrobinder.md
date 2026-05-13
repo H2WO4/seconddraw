@@ -1,7 +1,18 @@
 Name               | Cost | Type   | Rarity   | Description
 :----------------: | :--: | :----: | :------: | :----------
-Contemplate        | 1    | Skill  | Common   | Draw 1(2) cards. Retain your hand this turn. End your turn.
 Nail in the Coffin | 2    | Attack | Common   | Deal 17(21) damage. Draw 2 cards. End your turn.
+Certainty          | 1    | Skill  | Common   | Gain 9(11) Block. Draw 1 card. End your turn.
+Contemplate        | 1    | Skill  | Common   | Draw 1(2) cards. Retain your hand this turn. End your turn.
+Philosophize       | 1    | Skill  | Common   | Put 2(3) cards from your Discard Pile into your Hand and Retain them this turn. End your turn.
+Terminate          | 2    | Attack | Uncommon | Gain 6(8) Block. Osty deals damage equal to his HP. Osty dies.
 Remembrance        | 0    | Skill  | Uncommon | (Retain.) Cards in your Hand lose Ethereal this turn. End your turn.
-Untimely           | 1    | Power  | Uncommon | Whenever your turn is forced to end, gain 6(9) Block.
-Last Gasp          | 2    | Power  | Rare     | Whenever your turn is forced to end, discard 1 card and continue to play.
+Lamentation        | 1    | Power  | Uncommon | Whenever Osty dies, gain 6(9) Block.
+Plan Ahead         | 1    | Power  | Uncommon | Whenever your turn is forces to end, gain \[E\] and draw 1 card next turn.
+Untimely           | 1    | Power  | Uncommon | Whenever your turn is forced to end, Summon 4(6).
+Maternal Wrath     | 0    | Attack | Rare     | Deal 6(8) damage to ALL enemies. Attack an additional time if Osty is dead.
+The Taxman         | 3    | Attack | Rare     | Osty deals 10 damage 3(4) times. Inflict 2 Weak and 2 Vulnerable.
+Vanguard           | 1    | Skill  | Rare     | Summon 13(18). Osty does not take damage for you this turn. End your turn.
+Ambidextrous       | 2(1) | Power  | Rare     | Osty benefits from your Strength and Dexterity.
+Familial Bond      | 1    | Power  | Rare     | At the beginning of your turn, if Osty is alive, Summon 2(3).
+Last Gasp          | 2    | Power  | Rare     | Whenever your turn is forced to end, \[discard 1 card and\] continue to play.
+The Harvestwoman   | 3    | Power  | Rare     | Gain 6(8) Strength and 3(4) Dexterity. At the beginning of your turn, Osty dies.
