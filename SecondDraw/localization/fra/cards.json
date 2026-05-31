@@ -1,4 +1,6 @@
 {
+  "SECONDDRAW-GUT_SPILL.title": "Tranche-boyaux",
+  "SECONDDRAW-GUT_SPILL.description": "Infligez {Damage:diff()} dégâts {Repeat:diff()} fois.\nL'ennemi perd {StrengthLoss:diff()} de [gold]Force[/gold] jusqu'à la fin du tour.",
   "SECONDDRAW-GALACTIC_ALGORITHM.title": "Algorithme Galactique",
   "SECONDDRAW-GALACTIC_ALGORITHM.description": "[gold]Canalisez[/gold] {IfUpgraded:show:X+1|X} Orbes aléatoires.\nX est doublé si sa valeur est première."
 }

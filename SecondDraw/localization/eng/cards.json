@@ -1,4 +1,6 @@
 {
+  "SECONDDRAW-GUT_SPILL.title": "Gut Spill",
+  "SECONDDRAW-GUT_SPILL.description": "Deal {Damage:diff()} damage {Repeat:diff()} times.\nEnemy loses {StrengthLoss:diff()} [gold]Strength[/gold] this turn.",
   "SECONDDRAW-GALACTIC_ALGORITHM.title": "Galactic Algorithm",
   "SECONDDRAW-GALACTIC_ALGORITHM.description": "[gold]Channel[/gold] {IfUpgraded:show:X+1|X} random Orbs.\nDouble X if it is prime."
 }
