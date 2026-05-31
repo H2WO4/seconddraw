@@ -15,7 +15,8 @@
       in {
         default = pkgs.mkShell {
           packages = with pkgs; [
-            dotnet-sdk
+            dotnet-sdk_9
+            godotPackages_4_5.godot
           ];
 
           # env =

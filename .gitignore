@@ -1,2 +1,16 @@
 # Personal config
 mprocs.log
+
+# Project artifacts
+.godot/
+bin/
+/android/
+.git/
+.idea/
+.vs/
+publish/
+Properties/
+packages/
+.editorconfig
+*.user
+Directory.Build.props

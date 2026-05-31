@@ -1,0 +1,4 @@
+{
+  "SECONDDRAW-CHAOS_ALGORITHM.title": "Chaos Algorithm",
+  "SECONDDRAW-CHAOS_ALGORITHM.description": "Channel {IfUpgraded:X+1|X} random Orbs.\nDouble X if it is prime."
+}
