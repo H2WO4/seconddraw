@@ -28,12 +28,11 @@ public class SlidingKick() : CustomCard(0, CardType.Attack, CardRarity.Common, T
 		await DamageCmd.Attack(DynamicVars.Damage.BaseValue)
 			.FromCard(this)
 			.Targeting(cardPlay.Target)
-			.WithHitCount(DynamicVars.Repeat.IntValue)
 			.WithHitFx("vfx/vfx_attack_slash")
 			.Execute(choiceContext);
 
-		var prefs = new CardSelectorPrefs(SelectionScreenPrompt, 2);
-		var selected = await CardSelectCmd.FromHand(choiceContext, Owner, prefs, null, this);
+		var prefs = new CardSelectorPrefs(CardSelectorPrefs.DiscardSelectionPrompt, 2);
+		var selected = await CardSelectCmd.FromHandForDiscard(choiceContext, Owner, prefs, null, this);
 		foreach (var card in selected) {
 			await CardCmd.Discard(choiceContext, card);
 		}
