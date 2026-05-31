@@ -12,11 +12,14 @@ namespace SecondDraw.Cards.Defect;
 
 [Pool(typeof(DefectCardPool))]
 public class GalacticAlgorithm() : CustomCard(0, CardType.Skill, CardRarity.Rare, TargetType.Self) {
+	public override IEnumerable<CardKeyword> CanonicalKeywords => [];
+
 	protected override IEnumerable<DynamicVar> CanonicalVars => [];
 
 	protected override IEnumerable<IHoverTip> ExtraHoverTips => [
 		HoverTipFactory.Static(StaticHoverTip.Channeling),
 	];
+
 
 	protected override bool HasEnergyCostX => true;
 
