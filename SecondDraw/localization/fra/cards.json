@@ -1,0 +1,4 @@
+{
+  "SECONDDRAW-GALACTIC_ALGORITHM.title": "Algorithme Galactique",
+  "SECONDDRAW-GALACTIC_ALGORITHM.description": "[gold]Canalisez[/gold] {IfUpgraded:show:X+1|X} Orbes aléatoires.\nX est doublé si sa valeur est première."
+}

@@ -1,5 +1,4 @@
 ﻿using BaseLib.Abstracts;
-using BaseLib.Extensions;
 using SecondDraw.Extensions;
 using MegaCrit.Sts2.Core.Entities.Cards;
 
