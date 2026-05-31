@@ -5,6 +5,8 @@
   "SECONDDRAW-SLIDING_KICK.description": "Deal {Damage:diff()} damage.\nDiscard 2 cards.",
   "SECONDDRAW-WIDE_GRIN.title": "Wide Grin",
   "SECONDDRAW-WIDE_GRIN.description": "ALL enemies lose {StrengthLoss:diff()} [gold]Strength[/gold] this turn.",
+  "SECONDDRAW-PHANTOM_STRIKE.title": "Phantom Strike",
+  "SECONDDRAW-PHANTOM_STRIKE.description": "Deal {Damage:diff()} damage.\nAttack an additional time for each [gold]Sly[/gold] card in your [gold]Hand[/gold].{InCombat:\n(Hits {CalculatedHits:diff()} {CalculatedHits:plural:time|times})|}",
   "SECONDDRAW-GALACTIC_ALGORITHM.title": "Galactic Algorithm",
   "SECONDDRAW-GALACTIC_ALGORITHM.description": "[gold]Channel[/gold] {IfUpgraded:show:X+1|X} random Orbs.\nDouble X if it is prime."
 }

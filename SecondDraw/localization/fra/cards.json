@@ -5,6 +5,8 @@
   "SECONDDRAW-SLIDING_KICK.description": "Infligez {Damage:diff()} dégâts.\nDéfaussez 2 cartes.",
   "SECONDDRAW-WIDE_GRIN.title": "Grand sourire",
   "SECONDDRAW-WIDE_GRIN.description": "TOUS les ennemis perdent {StrengthLoss:diff()} de [gold]Force[/gold] jusqu'à la fin du tour.",
+  "SECONDDRAW-PHANTOM_STRIKE.title": "Frappe Fantôme",
+  "SECONDDRAW-PHANTOM_STRIKE.description": "Infligez {Damage:diff()} dégâts.\nAttaquez une fois de plus pour chaque carte avec [gold]Ruse[/gold] dans votre [gold]Main[/gold].{InCombat:\n(Se déclenche {CalculatedHits:diff()} fois)|}",
   "SECONDDRAW-GALACTIC_ALGORITHM.title": "Algorithme Galactique",
   "SECONDDRAW-GALACTIC_ALGORITHM.description": "[gold]Canalisez[/gold] {IfUpgraded:show:X+1|X} Orbes aléatoires.\nX est doublé si sa valeur est première."
 }
