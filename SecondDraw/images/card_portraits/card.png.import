@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dnu645g0g6riv"
-path="res://.godot/imported/power.png-753d1e41c93f2c85addf65c59c8e6110.ctex"
+uid="uid://cjo6xptnlp3rq"
+path="res://.godot/imported/card.png-04c8d9b99b11eb04ac1b2f9c2b17ab0b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ressources/images/powers/big/power.png"
-dest_files=["res://.godot/imported/power.png-753d1e41c93f2c85addf65c59c8e6110.ctex"]
+source_file="res://SecondDraw/images/card_portraits/card.png"
+dest_files=["res://.godot/imported/card.png-04c8d9b99b11eb04ac1b2f9c2b17ab0b.ctex"]
 
 [params]
 

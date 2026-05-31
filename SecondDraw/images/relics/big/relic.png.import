@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bf1s641udcvdq"
-path="res://.godot/imported/power.png-bc4014a3e172c077763a281cb187e43e.ctex"
+uid="uid://bayu4vi3gfvnv"
+path="res://.godot/imported/relic.png-2ce611f909ee2552d7a827c251da19b0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ressources/images/powers/power.png"
-dest_files=["res://.godot/imported/power.png-bc4014a3e172c077763a281cb187e43e.ctex"]
+source_file="res://SecondDraw/images/relics/big/relic.png"
+dest_files=["res://.godot/imported/relic.png-2ce611f909ee2552d7a827c251da19b0.ctex"]
 
 [params]
 

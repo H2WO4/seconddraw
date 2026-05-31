@@ -37,15 +37,15 @@
         <PackageReference Include="Alchyr.Sts2.ModAnalyzers" Version="*"/>
         <!-- Generates a .pck file when building if only using simple assets. May not work on all setups. Uncomment to test. -->
         <!-- <PackageReference Include="BSchneppe.StS2.PckPacker" Version="0.1.1" PrivateAssets="All" /> -->
-        <AdditionalFiles Include="ressources/localization/**/*.json"/> <!-- Used by analyzer -->
+        <AdditionalFiles Include="SecondDraw/localization/**/*.json"/> <!-- Used by analyzer -->
     </ItemGroup>
 
     <ItemGroup>
-        <Compile Remove="ressources/**"/>
+        <Compile Remove="SecondDraw/**"/>
         <Compile Remove="materials/**"/>
         <Compile Remove="shaders/**"/>
         <Compile Remove="images/**"/>
-        <EmbeddedResource Remove="ressources/**"/>
+        <EmbeddedResource Remove="SecondDraw/**"/>
         <EmbeddedResource Remove="materials/**"/>
         <EmbeddedResource Remove="shaders/**"/>
         <EmbeddedResource Remove="images/**"/>
@@ -56,13 +56,13 @@
         <None Include=".gitignore"/>
         <None Include="SecondDraw.json"/>
         <None Include="project.godot"/>
-        <None Include="ressources/**"/>
+        <None Include="SecondDraw/**"/>
     </ItemGroup>
 
     <ItemGroup>
-        <Folder Include="ressources/images/card_portraits/big/" />
-        <Folder Include="ressources/images/powers/big/" />
-        <Folder Include="ressources/images/relics/big/" />
+        <Folder Include="SecondDraw/images/card_portraits/big/" />
+        <Folder Include="SecondDraw/images/powers/big/" />
+        <Folder Include="SecondDraw/images/relics/big/" />
     </ItemGroup>
 
     <Target Name="CheckDependencyPaths">

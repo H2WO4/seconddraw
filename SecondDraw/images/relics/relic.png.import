@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cjo6xptnlp3rq"
-path="res://.godot/imported/card.png-f7df1ac32982b1026ea7a4aec73f9c0a.ctex"
+uid="uid://dp2xw3koblbs1"
+path="res://.godot/imported/relic.png-c5ebe03406666f4ad0851f5ed89ea8e5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ressources/images/card_portraits/card.png"
-dest_files=["res://.godot/imported/card.png-f7df1ac32982b1026ea7a4aec73f9c0a.ctex"]
+source_file="res://SecondDraw/images/relics/relic.png"
+dest_files=["res://.godot/imported/relic.png-c5ebe03406666f4ad0851f5ed89ea8e5.ctex"]
 
 [params]
 

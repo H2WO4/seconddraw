@@ -1,0 +1,4 @@
+{
+  "SECONDDRAW-GALACTIC_ALGORITHM.title": "Galactic Algorithm",
+  "SECONDDRAW-GALACTIC_ALGORITHM.description": "[gold]Channel[/gold] {IfUpgraded:show:X+1|X} random Orbs.\nDouble X if it is prime."
+}

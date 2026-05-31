@@ -12,7 +12,7 @@ config_version=5
 
 config/name="SecondDraw"
 config/features=PackedStringArray("4.5", "C#", "Mobile")
-config/icon="res://ressources/mod_image.png"
+config/icon="res://SecondDraw/mod_image.png"
 
 [display]
 

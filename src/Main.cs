@@ -9,7 +9,7 @@ namespace SecondDraw;
 public partial class Main : Node
 {
     public const string ModId = "SecondDraw";
-    public const string ResPath = "res://ressources";
+    public const string ResPath = $"res://{ModId}";
 
     public static MegaCrit.Sts2.Core.Logging.Logger Logger { get; } = new(ModId, MegaCrit.Sts2.Core.Logging.LogType.Generic);
 
