@@ -1,0 +1,10 @@
+procs:
+  build:
+    shell: dotnet build
+    autostart: false
+  publish-debug:
+    shell: dotnet publish -c ExportDebug
+    autostart: false
+  publish-release:
+    shell: dotnet publish -c ExportRelease
+    autostart: false
