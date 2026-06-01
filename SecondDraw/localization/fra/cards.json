@@ -9,6 +9,8 @@
   "SECONDDRAW-PHANTOM_STRIKE.description": "Infligez {Damage:diff()} dégâts.\nAttaquez une fois de plus pour chaque carte avec [gold]Ruse[/gold] dans votre [gold]Main[/gold].{InCombat:\n(Se déclenche {CalculatedHits:diff()} fois)|}",
   "SECONDDRAW-BLACK_DEATH.title": "Peste noire",
   "SECONDDRAW-BLACK_DEATH.description": "Appliquez {PoisonPower:diff()} de [gold]Poison[/gold].\nDoublez le [gold]Poison[/gold] de cette carte et augmentez son coût de 1.",
+  "SECONDDRAW-CORNER.title": "Acculer",
+  "SECONDDRAW-CORNER.description": "Ajoutez des [gold]Surins[/gold] à votre [gold]Main[/gold] jusqu'à ce qu'elle contienne {Cards:diff()} cartes.",
   "SECONDDRAW-GALACTIC_ALGORITHM.title": "Algorithme Galactique",
   "SECONDDRAW-GALACTIC_ALGORITHM.description": "[gold]Canalisez[/gold] {IfUpgraded:show:X+1|X} Orbes aléatoires.\nX est doublé si sa valeur est première."
 }
