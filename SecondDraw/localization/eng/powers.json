@@ -1,3 +1,6 @@
 {
-  
+  "SECONDDRAW-SCENT_POWER.title": "Scent",
+  "SECONDDRAW-SCENT_POWER.description": "At the start of next turn, gain [blue]3[/blue] [gold]Strength[/gold] this turn.",
+  "SECONDDRAW-SCENT_POWER.smartDescription": "At the start of next turn, gain [blue]{Amount}[/blue] [gold]Strength[/gold] this turn.",
+  "": ""
 }

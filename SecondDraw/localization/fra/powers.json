@@ -1,3 +1,6 @@
 {
+  "SECONDDRAW-SCENT_POWER.title": "Piste",
+  "SECONDDRAW-SCENT_POWER.description": "Au début de votre tour, gagnez [blue]3[/blue] de [gold]Force[/gold] ce tour.",
+  "SECONDDRAW-SCENT_POWER.smartDescription": "Au début de votre tour, gagnez [blue]{Amount}[/blue] de [gold]Force[/gold] ce tour.",
   "": ""
 }

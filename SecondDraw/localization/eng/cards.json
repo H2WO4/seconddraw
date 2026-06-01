@@ -11,6 +11,8 @@
   "SECONDDRAW-BLACK_DEATH.description": "Apply {PoisonPower:diff()} [gold]Poison[/gold].\nDouble this card's [gold]Poison[/gold] and increase its cost by 1.",
   "SECONDDRAW-CORNER.title": "Corner",
   "SECONDDRAW-CORNER.description": "Add [gold]Shivs[/gold] into your [gold]Hand[/gold] until it contains {Cards:diff()} cards.",
+  "SECONDDRAW-SCENT.title": "Scent",
+  "SECONDDRAW-SCENT.description": "Gain {Block:diff()} [gold]Block[/gold].\nNext turn, gain {ScentPower:diff()} [gold]Strength[/gold] this turn.",
   "SECONDDRAW-GALACTIC_ALGORITHM.title": "Galactic Algorithm",
   "SECONDDRAW-GALACTIC_ALGORITHM.description": "[gold]Channel[/gold] {IfUpgraded:show:X+1|X} random Orbs.\nDouble X if it is prime.",
   "": ""
