@@ -31,7 +31,8 @@ public class BlackDeath() : CustomCard(0, CardType.Skill, CardRarity.Uncommon, T
 			choiceContext,
 			cardPlay.Target,
 			DynamicVars.Poison.BaseValue,
-			Owner.Creature,this
+			Owner.Creature,
+			this
 		);
 		EnergyCost.AddThisCombat(1);
 		DynamicVars.Poison.UpgradeValueBy(DynamicVars.Poison.BaseValue);

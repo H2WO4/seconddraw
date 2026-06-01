@@ -12,5 +12,6 @@
   "SECONDDRAW-CORNER.title": "Corner",
   "SECONDDRAW-CORNER.description": "Add [gold]Shivs[/gold] into your [gold]Hand[/gold] until it contains {Cards:diff()} cards.",
   "SECONDDRAW-GALACTIC_ALGORITHM.title": "Galactic Algorithm",
-  "SECONDDRAW-GALACTIC_ALGORITHM.description": "[gold]Channel[/gold] {IfUpgraded:show:X+1|X} random Orbs.\nDouble X if it is prime."
+  "SECONDDRAW-GALACTIC_ALGORITHM.description": "[gold]Channel[/gold] {IfUpgraded:show:X+1|X} random Orbs.\nDouble X if it is prime.",
+  "": ""
 }

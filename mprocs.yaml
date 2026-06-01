@@ -8,3 +8,9 @@ procs:
   publish-release:
     shell: dotnet publish -c ExportRelease
     autostart: false
+  start-sts2:
+    shell: steam steam://rungameid/2868840
+    autostart: false
+  stop-sts2:
+    shell: kill -9 `pgrep "SlayTheSpire2"`
+    autostart: false
