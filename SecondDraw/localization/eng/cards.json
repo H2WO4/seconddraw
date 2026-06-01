@@ -7,6 +7,8 @@
   "SECONDDRAW-WIDE_GRIN.description": "ALL enemies lose {StrengthLoss:diff()} [gold]Strength[/gold] this turn.",
   "SECONDDRAW-PHANTOM_STRIKE.title": "Phantom Strike",
   "SECONDDRAW-PHANTOM_STRIKE.description": "Deal {Damage:diff()} damage.\nAttack an additional time for each [gold]Sly[/gold] card in your [gold]Hand[/gold].{InCombat:\n(Hits {CalculatedHits:diff()} {CalculatedHits:plural:time|times})|}",
+  "SECONDDRAW-BLACK_DEATH.title": "Black Death",
+  "SECONDDRAW-BLACK_DEATH.description": "Apply {PoisonPower:diff()} [gold]Poison[/gold].\nDouble this card's [gold]Poison[/gold] and increase its cost by 1.",
   "SECONDDRAW-GALACTIC_ALGORITHM.title": "Galactic Algorithm",
   "SECONDDRAW-GALACTIC_ALGORITHM.description": "[gold]Channel[/gold] {IfUpgraded:show:X+1|X} random Orbs.\nDouble X if it is prime."
 }
