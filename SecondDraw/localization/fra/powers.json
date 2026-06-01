@@ -2,5 +2,8 @@
   "SECONDDRAW-SCENT_POWER.title": "Piste",
   "SECONDDRAW-SCENT_POWER.description": "Au début de votre tour, gagnez [blue]3[/blue] de [gold]Force[/gold] ce tour.",
   "SECONDDRAW-SCENT_POWER.smartDescription": "Au début de votre tour, gagnez [blue]{Amount}[/blue] de [gold]Force[/gold] ce tour.",
+  "SECONDDRAW-OPPORTUNITY_POWER.title": "Opportunité",
+  "SECONDDRAW-OPPORTUNITY_POWER.description": "Lorsque vous jouez une carte qui coûte [blue]2[/blue] ou plus, ajoutez 2 [gold]Surins[/gold] à votre [gold]Main[/gold].",
+  "SECONDDRAW-OPPORTUNITY_POWER.smartDescription": "Lorsque vous jouez une carte qui coûte {Energy:energyIcons()} ou plus, ajoutez {Amount} [gold]Surins[/gold] à votre [gold]Main[/gold].",
   "": ""
 }

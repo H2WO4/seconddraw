@@ -2,5 +2,8 @@
   "SECONDDRAW-SCENT_POWER.title": "Scent",
   "SECONDDRAW-SCENT_POWER.description": "At the start of next turn, gain [blue]3[/blue] [gold]Strength[/gold] this turn.",
   "SECONDDRAW-SCENT_POWER.smartDescription": "At the start of next turn, gain [blue]{Amount}[/blue] [gold]Strength[/gold] this turn.",
+  "SECONDDRAW-OPPORTUNITY_POWER.title": "Opportunity",
+  "SECONDDRAW-OPPORTUNITY_POWER.description": "Whenever you play a card that costs [blue]2[/blue] Energy or more, add 2 [gold]Shivs[/gold] into your [gold]Hand[/gold].",
+  "SECONDDRAW-OPPORTUNITY_POWER.smartDescription": "Whenever you play a card that costs {Energy:energyIcons()} or more, add {Amount} [gold]Shivs[/gold] into your [gold]Hand[/gold].",
   "": ""
 }

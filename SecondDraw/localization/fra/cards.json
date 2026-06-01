@@ -13,6 +13,8 @@
   "SECONDDRAW-CORNER.description": "Ajoutez des [gold]Surins[/gold] à votre [gold]Main[/gold] jusqu'à ce qu'elle contienne {Cards:diff()} cartes.",
   "SECONDDRAW-SCENT.title": "Piste",
   "SECONDDRAW-SCENT.description": "Gagnez {Block:diff()} d'[gold]Armure[/gold].\nAu prochain tour, gagnez {ScentPower:diff()} de [gold]Force[/gold] jusqu'à la fin du tour.",
+  "SECONDDRAW-OPPORTUNITY.title": "Opportunité",
+  "SECONDDRAW-OPPORTUNITY.description": "Lorsque vous jouez une carte qui coûte {Energy:energyIcons()} ou plus, ajoutez {OpportunityPower:diff()} [gold]Surins[/gold] à votre [gold]Main[/gold].",
   "SECONDDRAW-GALACTIC_ALGORITHM.title": "Algorithme Galactique",
   "SECONDDRAW-GALACTIC_ALGORITHM.description": "[gold]Canalisez[/gold] {IfUpgraded:show:X+1|X} Orbes aléatoires.\nX est doublé si sa valeur est première.",
   "": ""
